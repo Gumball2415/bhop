@@ -1,4 +1,4 @@
-<img src="docs/bhop logotype.svg">
+<img style="float: center;" src="docs/bhop logotype.svg">
 
 A Work-In-Progress attempt to build a new music driver for NES / FamiCom, with eventual feature parity for FamiTracker projects. This will be a brand new driver, built from scratch with the goal of eventually becoming a drop-in replacement for the original. Right now it is complete enough to play many modules, but is still lacking several effects, hi-pitch envelopes, and most expansion audio types.
 
@@ -10,7 +10,7 @@ There is a live demo here: https://rusticnes.reploid.cafe/wasm/?cartridge=bhop-2
 ## Implemented
 - Bytecode reading, basic module playback, NTSC configuration
 - Volume, Arpeggio, Pitch, and Duty envelopes
-- Effects: `0xy`, `1xx`, `2xx`, `3xx`, `4xy`, `7xy`, `Axy`, `Bxx`, `Cxx`, `Dxx`, `Fxx`, `Gxx`, `Pxx`, `Qxy`, `Rxy`, `Sxx`, `Yxx`, `Zxx`
+- Effects: `=xx`, `0xy`, `1xx`, `2xx`, `3xx`, `4xy`, `7xy`, `Axy`, `Bxx`, `Cxx`, `Dxx`, `Fxx`, `Gxx`, `Pxx`, `Qxy`, `Rxy`, `Sxx`, `Wxx`, `Xxx`, `Yxx`, `Zxx`
 - Register pitch mode
 - DPCM Sample playback, with rudimentary bank switching support
 - MMC5 Expansion audio
