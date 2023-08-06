@@ -1,4 +1,4 @@
-# bhop
+<img src="docs/bhop logotype.svg">
 
 A Work-In-Progress attempt to build a new music driver for NES / FamiCom, with eventual feature parity for FamiTracker projects. This will be a brand new driver, built from scratch with the goal of eventually becoming a drop-in replacement for the original. Right now it is complete enough to play many modules, but is still lacking several effects, hi-pitch envelopes, and most expansion audio types.
 
@@ -230,7 +230,7 @@ Developers:
 
 Special Thanks:
 
-[yoeynsf](https://github.com/yoeynsf) - bhop mascot artowrk
+[yoeynsf](https://github.com/yoeynsf) - bhop mascot artwork
 
 [hEYDON](https://www.youtube.com/@heydon9601) - sprite/nametable layout assistance
 
