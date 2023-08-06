@@ -1,4 +1,4 @@
-<img style="float: center;" src="docs/bhop logotype.svg">
+<img style="max-height:50%;" src="docs/bhop logotype.svg">
 
 A Work-In-Progress attempt to build a new music driver for NES / FamiCom, with eventual feature parity for FamiTracker projects. This will be a brand new driver, built from scratch with the goal of eventually becoming a drop-in replacement for the original. Right now it is complete enough to play many modules, but is still lacking several effects, hi-pitch envelopes, and most expansion audio types.
 
